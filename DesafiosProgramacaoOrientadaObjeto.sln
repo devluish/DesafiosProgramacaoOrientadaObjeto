@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.36401.2
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcionários", "DesafiosProgramacaoOrientadaObjeto\Funcionários.csproj", "{199B49E7-929C-41CE-B47A-88246F872F74}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaAlunos", "SistemaAlunos\SistemaAlunos.csproj", "{981086E9-439D-4F40-8C9E-6C67A520E188}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{CEEF8ED8-29C9-4489-BA1C-503AFB7836DE}"
@@ -21,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{199B49E7-929C-41CE-B47A-88246F872F74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{199B49E7-929C-41CE-B47A-88246F872F74}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{199B49E7-929C-41CE-B47A-88246F872F74}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{199B49E7-929C-41CE-B47A-88246F872F74}.Release|Any CPU.Build.0 = Release|Any CPU
 		{981086E9-439D-4F40-8C9E-6C67A520E188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{981086E9-439D-4F40-8C9E-6C67A520E188}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{981086E9-439D-4F40-8C9E-6C67A520E188}.Release|Any CPU.ActiveCfg = Release|Any CPU
