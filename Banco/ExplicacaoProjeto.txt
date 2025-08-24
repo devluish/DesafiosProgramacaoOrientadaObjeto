@@ -1,0 +1,23 @@
+﻿🔹 Exercício 5 – Banco (um pouco mais complexo)
+
+Objetivo: Simular contas bancárias com métodos e lógica.
+
+Classe ContaBancaria:
+
+Número da conta, Nome do titular, Saldo.
+
+Construtor personalizado (define titular e saldo inicial).
+
+Métodos: Depositar, Sacar, ExibirSaldo.
+
+Classe Banco:
+
+Lista de contas.
+
+Método AdicionarConta(ContaBancaria conta).
+
+Método Transferir(int numeroOrigem, int numeroDestino, double valor).
+
+Método ListarContas().
+
+➡️ Teste: Crie algumas contas, faça depósitos, saques e transferências.

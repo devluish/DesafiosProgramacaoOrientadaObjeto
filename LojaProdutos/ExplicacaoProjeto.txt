@@ -1,0 +1,23 @@
+﻿🔹 Exercício 3 – Loja de Produtos
+
+Objetivo: Criar um sistema simples de loja.
+
+Classe Produto:
+
+Nome, Preço, Quantidade.
+
+Construtor personalizado (define os 3 valores).
+
+Método ValorTotal() → preço * quantidade.
+
+Método ExibirInfo().
+
+Classe Carrinho:
+
+Lista de produtos.
+
+Método AdicionarProduto(Produto produto).
+
+Método ExibirCarrinho() (mostra produtos e valor total do carrinho).
+
+➡️ Teste: Crie produtos, adicione no carrinho e mostre o total.

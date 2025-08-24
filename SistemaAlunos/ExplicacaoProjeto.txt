@@ -1,0 +1,25 @@
+﻿🔹 Exercício 2 – Sistema de Alunos
+
+Objetivo: Criar uma classe Aluno e uma classe Turma.
+
+Classe Aluno:
+
+Nome, Matrícula, Nota.
+
+Construtor personalizado (recebe nome e matrícula).
+
+Método DefinirNota(double nota) para alterar a nota.
+
+Método ExibirAluno().
+
+Classe Turma:
+
+Nome da turma, lista de alunos.
+
+Construtor que define o nome.
+
+Método AdicionarAluno(Aluno aluno).
+
+Método MediaDaTurma() que calcula média das notas.
+
+➡️ Teste: Crie uma turma, adicione alunos e calcule a média.

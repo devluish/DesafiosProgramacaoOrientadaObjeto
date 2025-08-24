@@ -1,0 +1,25 @@
+﻿🔹 Extra (opcional, bem legal) – Sistema de Jogo RPG
+
+Objetivo: Praticar herança + construtores + métodos.
+
+Classe Personagem:
+
+Nome, Vida, Ataque.
+
+Construtor personalizado.
+
+Método Atacar(Personagem inimigo) → diminui vida do inimigo.
+
+Classe Guerreiro (herda de Personagem):
+
+Defesa.
+
+Sobrescreve ataque para reduzir dano recebido.
+
+Classe Mago (herda de Personagem):
+
+Mana.
+
+Método LancarMagia(Personagem inimigo) → dano especial.
+
+➡️ Teste: Crie um guerreiro e um mago e simule uma batalha.

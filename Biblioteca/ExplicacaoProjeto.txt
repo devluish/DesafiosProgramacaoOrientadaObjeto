@@ -1,0 +1,23 @@
+﻿🔹 Exercício 1 – Biblioteca simples
+
+Objetivo: Criar uma classe Livro e uma classe Biblioteca.
+
+Classe Livro deve ter:
+
+Título, Autor, Ano (propriedades).
+
+Construtor padrão (define valores “Desconhecido”).
+
+Construtor personalizado (recebe título, autor e ano).
+
+Método ExibirInfo() que mostra os dados do livro.
+
+Classe Biblioteca deve ter:
+
+Lista de livros (List<Livro>).
+
+Método AdicionarLivro(Livro livro).
+
+Método ListarLivros() que mostra todos os livros cadastrados.
+
+➡️ Teste: Crie alguns livros com construtor padrão e outros com personalizado, adicione na biblioteca e liste.
