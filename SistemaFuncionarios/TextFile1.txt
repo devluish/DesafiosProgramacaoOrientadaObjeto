@@ -1,0 +1,29 @@
+﻿🔹 Exercício 4 – Herança: Funcionários
+
+Objetivo: Exercitar herança e construtores.
+
+Classe Funcionario:
+
+Nome, SalárioBase.
+
+Construtor personalizado.
+
+Método ExibirInfo().
+
+Classe Gerente (herda de Funcionario):
+
+Bônus.
+
+Construtor que chama base().
+
+Sobrescreve ExibirInfo() para mostrar salário + bônus.
+
+Classe Desenvolvedor (herda de Funcionario):
+
+Linguagem principal.
+
+Construtor personalizado.
+
+Método ExibirInfo().
+
+➡️ Teste: Crie um Gerente e um Desenvolvedor e exiba informações.

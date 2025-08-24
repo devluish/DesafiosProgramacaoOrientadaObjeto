@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banco", "Banco\Banco.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaRPG", "SistemaRPG\SistemaRPG.csproj", "{BBE9DB34-61BD-45E1-9219-746DF85F4818}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaFuncionarios", "SistemaFuncionarios\SistemaFuncionarios.csproj", "{895441B6-E5F6-4FFF-B9A4-BD51B9420BB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{BBE9DB34-61BD-45E1-9219-746DF85F4818}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BBE9DB34-61BD-45E1-9219-746DF85F4818}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BBE9DB34-61BD-45E1-9219-746DF85F4818}.Release|Any CPU.Build.0 = Release|Any CPU
+		{895441B6-E5F6-4FFF-B9A4-BD51B9420BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{895441B6-E5F6-4FFF-B9A4-BD51B9420BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{895441B6-E5F6-4FFF-B9A4-BD51B9420BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{895441B6-E5F6-4FFF-B9A4-BD51B9420BB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
