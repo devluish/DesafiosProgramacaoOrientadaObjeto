@@ -1,0 +1,16 @@
+﻿📝 Desafios de POO em C#
+
+Exercício 1 – Biblioteca simples
+Exercício 2 – Sistema de Alunos
+Exercício 3 – Loja de Produtos
+Exercício 4 – Herança: Funcionários
+Exercício 5 – Banco (um pouco mais complexo)
+Extra (opcional, bem legal) – Sistema de Jogo RPG
+
+Dicas para você treinar bem:
+
+Sempre comece pela classe menor (ex: Livro, Produto, Aluno).
+Depois crie a classe gerenciadora (ex: Biblioteca, Carrinho, Turma).
+Sempre use construtores diferentes (padrão e personalizado).
+Experimente ToString() para facilitar os retornos (Console.WriteLine(obj)).
+
